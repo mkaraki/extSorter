@@ -1,0 +1,7 @@
+src/*
+!src/.gitkeep
+!src/.extsorterconf.tsv
+pdf/*
+!pdf/.gitkeep
+jpg/*
+!jpg/.gitkeep
